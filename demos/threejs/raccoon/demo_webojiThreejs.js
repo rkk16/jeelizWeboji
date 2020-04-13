@@ -10,7 +10,7 @@ function main(){
     NNCpath: '../../../dist/',
 
     //FOX :
-    meshURL: 'meshes/FaceRec.json',
+    /*meshURL: 'meshes/FaceRec.json',
     matParameters: {
       diffuseMapURL: 'textures/Fox_albedo.png',
       specularMapURL: 'textures/Fox_specular.png',
@@ -18,7 +18,7 @@ function main(){
     }, //*/
 
     //HUMAN CREEPY FACE :
-    /*meshURL: 'meshes/faceCustom11_v0.json',
+    meshURL: 'meshes/faceCustom11_v0.json',
     matParameters: {
       diffuseMapURL: 'textures/skin.jpg'
     },  //*/
