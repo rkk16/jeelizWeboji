@@ -10,7 +10,7 @@ function main(){
       NNCpath: '../../../dist/',
 
       //RACCOON:
-      meshURL: 'meshes/fox11_v0.json',
+      meshURL: 'meshes/FaceRec.json',
       matParameters: {
         diffuseMapURL: 'textures/Fox_albedo.png',
         specularMapURL: 'textures/Fox_specular.png',
