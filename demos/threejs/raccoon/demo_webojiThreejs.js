@@ -23,7 +23,7 @@ function main(){
       diffuseMapURL: 'textures/skin.jpg'
     },  //*/
 
-    position: [0,-80, 0],
-    scale: 1.2
+    position: [0,-30, 0],
+    scale: 1.5
   });
 } //end main()
