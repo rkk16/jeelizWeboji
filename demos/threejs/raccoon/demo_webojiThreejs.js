@@ -10,7 +10,7 @@ function main(){
     NNCpath: '../../../dist/',
 
     //FOX :
-    meshURL: 'meshes/FaceRec.json',
+    meshURL: 'meshes/kangaroo.json',
     matParameters: {
       diffuseMapURL: 'textures/Fox_albedo.png',
       specularMapURL: 'textures/Fox_specular.png',
@@ -23,7 +23,7 @@ function main(){
       diffuseMapURL: 'textures/skin.jpg'
     },  //*/
 
-    position: [0,-30, 0],
-    scale: 1.5
+    position: [0,-80, 0],
+    scale: 1.2
   });
 } //end main()
